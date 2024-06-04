@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <h1>Fungi.info</h1>
+  <h1>Fungi.info - Capstone Bangkit Academy C241-PS495</h1>
   <p>Fungi.Info is a mobile application that uses AI and image recognition to identify fungi species from images, helping users distinguish between edible and poisonous varieties during outdoor activities.</p>
-   <img src="https://img.shields.io/badge/by-bangkitacademy24%20-red.svg" />
+   <img src="https://img.shields.io/badge/by-bangkitacademy24%20-red.svg" /> <img src="https://img.shields.io/badge/by-C241PS495%20-yellow.svg" />
 </div>
 
 ## Executive Summary
