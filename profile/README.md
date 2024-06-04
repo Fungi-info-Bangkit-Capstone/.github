@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo_Bangkit" src="https://raw.githubusercontent.com/Fungi-info-Bangkit-Capstone/.github/main/bangkit.jpg" width="300" />
+  <img alt="Logo_Fungi" src="https://raw.githubusercontent.com/Fungi-info-Bangkit-Capstone/.github/main/logo.png" width="300" />
 </div>
 
 <div align="center">
