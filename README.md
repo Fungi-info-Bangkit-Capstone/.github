@@ -1,12 +1,12 @@
 <div align="center">
-  <img alt="Logo_Bangkit" src="https://raw.githubusercontent.com/petershaan12/BangkitFinalProjectAndroid/master/app/src/main/res/drawable/bangkit.jpg" width="300" />
+  <img alt="Logo_Bangkit" src="https://raw.githubusercontent.com/Fungi-info-Bangkit-Capstone/.github/main/bangkit.jpg" width="300" />
 </div>
 
-# Fung.Info
-![Fung.Info-Logo](https://github.com/FungInfo/.Github/assets/96722743/3185150c-85bb-4e99-8ea3-eed88062131d)
-
-## Introduction
-Fung.Info is a mobile application that uses AI and image recognition to identify fungi species from images, helping users distinguish between edible and poisonous varieties during outdoor activities.
+<div align="center">
+  <h1>Fungi.info</h1>
+  <p>Fungi.Info is a mobile application that uses AI and image recognition to identify fungi species from images, helping users distinguish between edible and poisonous varieties during outdoor activities.</p>
+   <img src="https://img.shields.io/badge/by-bangkitacademy24%20-red.svg" />
+</div>
 
 ## Executive Summary
 Our project introduces an innovative solution to the challenge of identifying fungi in the wild. By leveraging AI and image recognition, our app allows users to quickly and accurately identify fungi species using their device's camera.
@@ -31,7 +31,7 @@ Our team identified a need for a tool that could help outdoor enthusiasts and mu
 - Detection of mushroom species that cannot be identified from images
 - Recommendations for mushroom cooking recipes
 
-## Our Team Member
+## Our Team Member 👥
 - [(ML) M006D4KY1874 -  Ariajuna Yodyatara  - Universitas Brawijaya](mailto:M006D4KY1874@bangkit.academy)
 - [(ML) M006D4KY2821 - Nandito Yuda Samosir  - Universitas Brawijaya](mailto:M006D4KY2821@bangkit.academy)
 - [(ML) M553D4KX3062  - Anne Rossa Limbong  - Universitas Advent Indonesia](mailto:M553D4KX3062@bangkit.academy)
