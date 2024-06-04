@@ -1,36 +1,42 @@
-# Capstone Bangkit Academy C23-PS248
-![RashIO-Logo](https://github.com/RashIO-Bangkit-Capstone/.Github/assets/96722743/3185150c-85bb-4e99-8ea3-eed88062131d)
+<div align="center">
+  <img alt="Logo_Bangkit" src="https://raw.githubusercontent.com/petershaan12/BangkitFinalProjectAndroid/master/app/src/main/res/drawable/bangkit.jpg" width="300" />
+</div>
+
+# Fung.Info
+![Fung.Info-Logo](https://github.com/FungInfo/.Github/assets/96722743/3185150c-85bb-4e99-8ea3-eed88062131d)
 
 ## Introduction
-RashIO - Eczema, Psoriasis & Dermatitis Skin Detection is an Aplication based Android platform providing solutions for the general public that can be used as first aid for symptoms of rash and itching, which can provide predictions for three types of skin diseases, namely Eczema, Psoriasis, and Dermatitis.
+Fung.Info is a mobile application that uses AI and image recognition to identify fungi species from images, helping users distinguish between edible and poisonous varieties during outdoor activities.
 
-## Project Scope & Deliverables:
+## Executive Summary
+Our project introduces an innovative solution to the challenge of identifying fungi in the wild. By leveraging AI and image recognition, our app allows users to quickly and accurately identify fungi species using their device's camera.
+
+## Project Origin
+Our team identified a need for a tool that could help outdoor enthusiasts and mushroom farmers identify whether a mushroom is edible or poisonous. The app also provides information about the identified mushroom species and potential culinary uses.
+
+## Project Scope & Deliverables
 ### Project Goal:
-- Build a mobile application (Android) that can detect skin diseases based on rashes or redness on the skin.
+- Build a mobile application (Android) that can detect mushroom species and determine if they are edible or poisonous.
 ### Deliverables:
-- Building a system that can identify skin disease
-- Provides insight into skin rashes
+- Building a system that can identify mushroom species
+- Provides insight into mushroom species
 - Delivering user friendly, and reliable mobile application
 - Seamless integration between system components
 ### Scope:
 ### In-Scope:
-- Skin disease detection based on rashes or redness
-- Skin disease awareness
-- First aid for skin diseases
+- Mushroom species detection based on images
+- Mushroom species awareness
+- First aid for mushroom poisoning
 ### Out-of-Scope:
-- Detection of skin diseases that do not have a rash or redness
-- Drug recommendations for skin diseases
-
+- Detection of mushroom species that cannot be identified from images
+- Recommendations for mushroom cooking recipes
 
 ## Our Team Member
-- [(ML) M168DSY1828 -  Lysa Apriani  - Universitas Esa Unggul](mailto:M168DSY1828@bangkit.academy)
-- [(ML) M168DSX2313 - Dian Fajar Septianto  - Universitas Esa Unggul](mailto:M168DSX2313@bangkit.academy)
-- [(MD) A168DSX2102 - Ichlasul Fikri Astamar Putra - Universitas Esa Unggul](mailto:A168DSX2102@bangkit.academy)
-- [(MD) A172DSX2098 -  Muhammad Ridwan Syah – Universitas Gunadarma](mailto:A172DSX2098@bangkit.academy)
-- [(CC) C241DSX0809 - Farhan Ramadhan  - Universitas Mercu Buana](mailto:C241DSX0809@bangkit.academy.com)
-- [(CC) C172DSX3577 - Joel Pangihutan  -  Universitas Gunadarma](mailto:C172DSX3577@bangkit.academy.com)
+- [(ML) M006D4KY1874 -  Ariajuna Yodyatara  - Universitas Brawijaya](mailto:M006D4KY1874@bangkit.academy)
+- [(ML) M006D4KY2821 - Nandito Yuda Samosir  - Universitas Brawijaya](mailto:M006D4KY2821@bangkit.academy)
+- [(ML) M553D4KX3062  - Anne Rossa Limbong  - Universitas Advent Indonesia](mailto:M553D4KX3062@bangkit.academy)
+- [(CC) C553D4KY1206 - Gladwin Riovaldy  - Universitas Advent Indonesia](mailto:C553D4KY1206@bangkit.academy.com)
+- [(CC) C006D4KX0141 - Salsabila Rachma Aurellia  -  Universitas Brawijaya](mailto:C006D4KX0141@bangkit.academy.com)
+- [(MD) A553D4KY4337 -  Peter Shaan – Universitas Advent Indonesia](mailto:A553D4KY4337@bangkit.academy)
 
 ## Repositories
-- [RashIO-Machine Learning](https://github.com/RashIO-Bangkit-Capstone/ML-RashIO)
-- [RashIO-API](https://github.com/RashIO-Bangkit-Capstone/backend-rashio)
-- [RashIO-Mobile Development](https://github.com/RashIO-Bangkit-Capstone/RashIO-Mobile)
