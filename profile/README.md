@@ -40,3 +40,5 @@ Our team identified a need for a tool that could help outdoor enthusiasts and mu
 - [(MD) A553D4KY4337 -  Peter Shaan – Universitas Advent Indonesia](mailto:A553D4KY4337@bangkit.academy)
 
 ## Repositories
+- [FungiInfo-Machine Learning](https://github.com/Fungi-info-Bangkit-Capstone/model)
+- [FungiInfo-Mobile Development](https://github.com/Fungi-info-Bangkit-Capstone/android)
